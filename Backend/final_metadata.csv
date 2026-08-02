@@ -1,0 +1,6 @@
+Item no,Title,Manufacturer's item no,Description,ean,list,brand/supplier,product_url,image_path,status
+0000001,Sample Cable Type A 1kV,SM-1001,Sample power cable with flexible construction,7300000000011,00A,SampleCo AB,https://example.com/product/0000001,dataset_images/0000001.jpg,OK
+0000002,Sample Cable Type B 1kV,SM-1002,Sample power cable with reinforced insulation,7300000000028,00A,SampleCo AB,https://example.com/product/0000002,dataset_images/0000002.jpg,OK
+0000003,Sample Connector C,SM-1003,Sample connector for industrial use,7300000000035,00B,DemoSupply Inc,https://example.com/product/0000003,dataset_images/0000003.jpg,OK
+0000004,Sample Switch D,SM-1004,Sample electrical switch component,7300000000042,00B,DemoSupply Inc,https://example.com/product/0000004,dataset_images/0000004.jpg,OK
+0000005,Sample Fitting E,SM-1005,Sample fitting for cable management,7300000000059,00A,SampleCo AB,https://example.com/product/0000005,dataset_images/0000005.jpg,OK

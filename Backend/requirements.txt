@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pyodbc
+python-jose[cryptography]
+numpy
+pandas
+torch
+transformers
+faiss-cpu         
+openai-clip        
+Pillow
+zxingcpp
+reportlab
+pydantic
